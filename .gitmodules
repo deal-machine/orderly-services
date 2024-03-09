@@ -1,0 +1,6 @@
+[submodule "orderly-gateway"]
+	path = orderly-gateway
+	url = https://github.com/deal-machine/orderly-gateway.git
+[submodule "orderly-api"]
+	path = orderly-api
+	url = https://github.com/deal-machine/orderly-api.git
